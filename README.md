@@ -1,6 +1,6 @@
 <html>
 <body>
-  <marquee > <b> WELCOME TO MEGANATHAN SITE </b> <b> <A href=https://drive.google.com/file/d/130V8OImY7RQuLWPBcOQDFB7zJfK6Wj11/view?usp=sharing> Tamil Material </A> </b>  </marquee>
+  <marquee > <b> WELCOME TO MEGANATHAN SITE </b> <A href=https://drive.google.com/file/d/130V8OImY7RQuLWPBcOQDFB7zJfK6Wj11/view?usp=sharing> Tamil Material </A></marquee>
   <h1 align = center> </h1>
   <A href = "https://drive.google.com/file/d/1Csw16dh0efWkvuXKJIAeNQX7hlL2fA-I/view?usp=sharing"> Tamil Guide </A>
   <h1 align = center> </h1>
