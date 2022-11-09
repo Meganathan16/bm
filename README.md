@@ -1,6 +1,6 @@
 <html>
 <body>
-  <marquee > <b> WELCOME TO MEGANATHAN SITE </b> <A href=https://drive.google.com/file/d/130V8OImY7RQuLWPBcOQDFB7zJfK6Wj11/view?usp=sharing> Tamil Material </A></marquee>
+  <marquee > <b> WELCOME TO MEGANATHAN SITE </b> </marquee>
   <h1 align = center> </h1>
   <A href = "https://drive.google.com/file/d/1Csw16dh0efWkvuXKJIAeNQX7hlL2fA-I/view?usp=sharing"> Tamil Guide </A>
   <h1 align = center> </h1>
@@ -9,5 +9,7 @@
   <A href = "https://drive.google.com/file/d/1W8AUmOAQ0chwoPSD2s4XoHecJvTGsH6t/view?usp=sharing"> Chemistry Guide </A>
   <h1 align = center> </h1>
   <A href = "https://drive.google.com/file/d/15aZY2LDeFnbpmpX7lSDJKL0sJcvb3qwk/view?usp=sharing"> Computer material </A>
+  <h1 align = center> </h1>
+   <A href=https://drive.google.com/file/d/130V8OImY7RQuLWPBcOQDFB7zJfK6Wj11/view?usp=sharing> Tamil Material </A>
   </body>
   </html>
