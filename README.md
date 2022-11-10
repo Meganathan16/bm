@@ -1,5 +1,4 @@
-<html>
-<body>
+
   <marquee> <b> WELCOME TO MEGANATHAN SITE </b> </marquee>
   <marquee> <b> <A href = "https://drive.google.com/file/d/130V8OImY7RQuLWPBcOQDFB7zJfK6Wj11/view?usp=sharing"> tamil material </A> </b> </marquee>
   <marquee> <b>  <A href = "https://drive.google.com/file/d/15aZY2LDeFnbpmpX7lSDJKL0sJcvb3qwk/view?usp=sharing"> Computer material </A> </b> </marquee>
@@ -11,5 +10,4 @@
   <A href = "https://drive.google.com/file/d/1Shp6UEkmQvjHPNUPCk0p7NRWO7n8RxRp/view?usp=sharing"> English Guide </A>
   <h1 align = center> </h1>
   <A href = "https://drive.google.com/file/d/1W8AUmOAQ0chwoPSD2s4XoHecJvTGsH6t/view?usp=sharing"> Chemistry Guide </A>
-</body>
-</html>
+
