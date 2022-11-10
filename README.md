@@ -11,5 +11,5 @@
   <A href = "https://drive.google.com/file/d/1Shp6UEkmQvjHPNUPCk0p7NRWO7n8RxRp/view?usp=sharing"> English Guide </A>
   <h1 align = center> </h1>
   <A href = "https://drive.google.com/file/d/1W8AUmOAQ0chwoPSD2s4XoHecJvTGsH6t/view?usp=sharing"> Chemistry Guide </A>
-  </body>
-  </html>
+</body>
+</html>
