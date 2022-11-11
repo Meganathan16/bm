@@ -4,31 +4,30 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.square {
-  height: 200px;
-  width: 400px;
-  background-color:#ff0000;
-  text-align: center;
-  margin: 0 auto;
+.square
+{
+width: 200px;
+height: 400px;
+background-color: #ff0000;
+text-align: center;
+margin: 0 auto;
 }
-       
 </style>
 </head>
 <body>
-
 <h2> </h2>
 <div class="square">
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.circle{
-  height: 50px;
-  width: 50px;
-  background-color: #ffffff;
-  border-radius: 50%;
-  margin: 0 auto;
-}
+.circle
+{
+width: 50%;
+height: 50%;
+background-color: #ffffff;
+border-radius: 50;
+text-align: center;
+margin: 0 auto;
 </style>
 </head>
 <body>
@@ -43,7 +42,6 @@
 <h1 align = center> </h1>
        <A href="https://drive.google.com/drive/folders/1rDfWgcfQTqEfEnVZsibJ0eahfoU2uCrV?usp=sharing"> click here to view material </A>
 </div>
-
 </body>
 </html> 
 
