@@ -1,13 +1,50 @@
+<!DOCTYPE html>
+<html>
+ <marquee> <b> WELCOME TO THIS SITE <b> </marquee> 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.square {
+  height: 200px;
+  width: 400px;
+  background-color:#ff0000;
+  text-align: center;
+  margin: 0 auto;
+}
+       
+</style>
+</head>
+<body>
 
-  <marquee> <b> WELCOME TO MEGANATHAN SITE </b> </marquee>
-  <marquee> <b> <A href = "https://drive.google.com/file/d/130V8OImY7RQuLWPBcOQDFB7zJfK6Wj11/view?usp=sharing"> tamil material </A> </b> </marquee>
-  <marquee> <b>  <A href = "https://drive.google.com/file/d/1IP7Abvae70DOxXZGJWJ7Nbgt6EZJPRhw/view?usp=sharing"> Computer material </A> </b> </marquee>
-  <marquee> <b>  <A href = "https://www.windy.com/?12.900,80.221,5"> windy </A> </b> </marquee>
-  <bg sound src = "https://drive.google.com/file/d/1NFmIui21Jwfp5Mx65dmZ3jPDRNp9udW-/view?usp=sharing" loop=infinite>
-  <h1 align = center> </h1>
-  <A href = "https://drive.google.com/file/d/1Csw16dh0efWkvuXKJIAeNQX7hlL2fA-I/view?usp=sharing"> Tamil Guide </A>
-  <h1 align = center> </h1>
-  <A href = "https://drive.google.com/file/d/1Shp6UEkmQvjHPNUPCk0p7NRWO7n8RxRp/view?usp=sharing"> English Guide </A>
-  <h1 align = center> </h1>
-  <A href = "https://drive.google.com/file/d/1W8AUmOAQ0chwoPSD2s4XoHecJvTGsH6t/view?usp=sharing"> Chemistry Guide </A>
+<h2> </h2>
+<div class="square">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.circle{
+  height: 50px;
+  width: 50px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+</style>
+</head>
+<body>
+<h2></h2>
+<div class="circle">
+ 11
+</div>
+<h1 align = center> </h1>
+ 11 standard
+<h1 align = center> </h1>
+	   <A href="https://drive.google.com/drive/folders/1b3zuZ2sF9BCNjjaz-nHQFKJxB5uc6Fc0?usp=sharing"> click here to view guide </A>
+<h1 align = center> </h1>
+       <A href="https://drive.google.com/drive/folders/1rDfWgcfQTqEfEnVZsibJ0eahfoU2uCrV?usp=sharing"> click here to view material </A>
+</div>
+
+</body>
+</html> 
+
 
