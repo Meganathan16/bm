@@ -11,19 +11,24 @@
   text-align: center;
   margin: 0 auto;
 }
-
-@keyframes ticker {
-	100%{
-		transform: translate3d(-100%, 0, 0);
-	}
-}
-       
+      
 </style>
+<script>
+ var i = 0;
+function change() {
+  var doc = document.getElementById("background");
+  var color = ["green", "orange", "yellow", "red"];
+  doc.style.backgroundColor = color[i];
+  i = (i + 1) % color.length;
+}
+setInterval(change, 1000);
+</script>
 </head>
 <body>
 
 <h2> </h2>
 <div class="square">
+<div id="background" style="height: 400px;" style="width: 300px;">
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,6 +64,7 @@
 	<A href="https://drive.google.com/drive/folders/1x-nsxO18tXvsXWYiSAxgu0xkMZ1Pn67E?usp=sharing"> Test </A>
 <h1 align = center> </h1>
 	<A href="https://drive.google.com/drive/folders/1jxnRryViaIFSRQ2a-i9araSEyecbTU64?usp=sharing"> Assignment </A>
+	</div>
 </div>
 
 </body>
